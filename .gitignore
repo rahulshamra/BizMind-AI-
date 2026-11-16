@@ -6,3 +6,4 @@ venv/
 __pycache__/
 .env
 dist/
+backend/ml_models/demand_forecasting.pkl
